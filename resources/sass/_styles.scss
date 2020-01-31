@@ -1,0 +1,21 @@
+.navbar-brand img {
+    width: 40px;
+}
+
+.navbar-brand span {
+    display: inline-block;
+    border-left: 2px solid black;
+    padding-left: 10px;
+    font-family: 'Lobster', cursive;
+    font-size: 22px;
+}
+
+.search-icon {
+    position: relative;
+    top: 26px;
+    left: 4px;
+}
+
+.search-box {
+    padding-left: 20px;
+}
